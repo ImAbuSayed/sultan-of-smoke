@@ -15,7 +15,7 @@
 | **Written On** | May 18, 2026 |
 | **Song Page** | [Open Song Page](https://imabusayed.github.io/sultan-of-smoke/) |
 | **License** | [View License](./LICENSE.md) |
-| **Get License** | [License this song: Sultan of Smoke](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/sultan-of-smoke/) |
+| **Get License** | [Get a Licensing Quote for Sultan of Smoke](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/sultan-of-smoke/) |
 | **Author** | Abu Sayed |
 | **Rights** | All Rights Reserved |
 
@@ -110,7 +110,7 @@ This song is an original creative work by Abu Sayed. All lyrics, melody, and com
 |:-------------------|:------------|
 | **Author** | Abu Sayed |
 | **Version** | `v1` |
-| **SHA-256 Hash** | `N/A` |
+| **SHA-256 Hash** | `aa0743e3bdd3d4b888024e6ca5bf33200d7ba4d39df8ae3206c529eb6d1cd58e` |
 | **Timestamp** | May 19, 2026 |
 
 See [LICENSE.md](./LICENSE.md) for full terms and conditions.
