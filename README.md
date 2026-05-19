@@ -15,7 +15,7 @@
 | **Written On** | May 18, 2026 |
 | **Song Page** | [Open Song Page](https://imabusayed.github.io/sultan-of-smoke/) |
 | **License** | [View License](./LICENSE.md) |
-| **Get License** | [Request Licensing for Sultan of Smoke](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/sultan-of-smoke/) |
+| **Get License** | [License this song: Sultan of Smoke](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/sultan-of-smoke/) |
 | **Author** | Abu Sayed |
 | **Rights** | All Rights Reserved |
 
@@ -32,7 +32,10 @@
 
 ## 📝 Lyric Preview
 
-> [Excerpt will appear here after the final lyric is saved.]
+> Kaale surme de vich lukkya ae nasha, fatal attraction
+> Sachi marda haan wekh ke main teri adaa, chain reaction
+> Akhiyan di agg vich balda haan roz, pure burning fire
+> Bullan te tera naa labhda haan khoz, my only desire
 > ...
 
 [**View Full Lyrics**](./lyrics.txt) | [**View Metadata**](./manifest.json) | [**View Proofs**](./hashes.txt)
